@@ -1,8 +1,10 @@
 # QuickTxn PHP SDK
 
-A clean PHP SDK wrapper for QuickTxn’s public API.
+A clean, simple PHP SDK for QuickTxn’s REST API.
 
-## Installation
+---
+
+## 📦 Install
 
 ```bash
-composer require quicktxn
+composer require metahat/quicktxn
