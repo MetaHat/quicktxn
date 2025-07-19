@@ -21,4 +21,7 @@
       "email": "support@quicktxn.in"
     }
   ]
+"minimum-stability": "dev",
+"prefer-stable": true,
+
 }
